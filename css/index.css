@@ -29,3 +29,13 @@ This is css for ronnapatp project you can see this in https://github.com/ronnapa
 .txt-inherit{text-align: inherit;}
 .txt-initial{text-align: initial;}
 .txt-unset{text-align: unset;}
+
+/* float */
+.float-right{float: right;}
+.float-left{float: left;}
+.float-inline-start{float: inline-start;}
+.float-inline-end{float: inline-end;}
+.float-none{float: none;}
+.float-inherit{float: inherit;}
+.float-initial{float: initial;}
+.float-unset{float: unset;}
