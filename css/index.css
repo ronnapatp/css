@@ -15,3 +15,17 @@ This is css for ronnapatp project you can see this in https://github.com/ronnapa
 .color-gold{color: gold;}
 .color-silver{color: silver;}
 .color-green{color: green;}
+.color-brown{color: brown;} 
+.color-indiogo{color: indigo;}
+
+
+/* Text align */
+.txt-center{text-align: center;}
+.txt-end{text-align: end;}
+.txt-justify{text-align: justify;}
+.txt-left{text-align: left;}
+.txt-right{text-align: right;}
+.txt-start{text-align: start;}
+.txt-inherit{text-align: inherit;}
+.txt-initial{text-align: initial;}
+.txt-unset{text-align: unset;}
