@@ -61,3 +61,7 @@ This is css for ronnapatp project you can see this in https://github.com/ronnapa
 .font-size-180{font-size: 180px;}
 .font-size-190{font-size: 190px;}
 .font-size-200{font-size: 200px;}
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+.fonts-roboto{font-family: 'Roboto', sans-serif;}
