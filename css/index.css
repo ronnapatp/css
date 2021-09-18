@@ -65,3 +65,5 @@ This is css for ronnapatp project you can see this in https://github.com/ronnapa
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
 .fonts-roboto{font-family: 'Roboto', sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@300&family=Roboto:ital,wght@1,300&display=swap');
+.fonts-mitr{font-family: 'Mitr', sans-serif;}
